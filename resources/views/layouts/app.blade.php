@@ -20,6 +20,7 @@
     <div class="navbar-nav ms-auto">
         <a class="nav-link active" href="{{ route('home.index') }}">Home</a>
         <a class="nav-link active" href="{{ route('product.index') }}">Product</a>
+<<<<<<< HEAD
         <a class="nav-link active" href="{{ route('cart.index') }}">Cart</a>
         <a class="nav-link active" href="{{ route('home.about') }}">About</a>
 
@@ -37,6 +38,9 @@
     @endguest
 
         
+=======
+        <a class="nav-link active" href="{{ route('home.about') }}">About</a>
+>>>>>>> 74ad44549ae7777166e991a3ad8148fe16c8a2a1
     </div>
 </div>
 </div>
